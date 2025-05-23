@@ -22,5 +22,8 @@
 ![image](https://github.com/user-attachments/assets/6a1b838f-3ef3-4857-91cc-0c80f178784e)
 
 ### 지하철 혼잡도 예측에 대한 변수들의 기여 설명력 기반 의사결정
-![image](https://github.com/user-attachments/assets/f9264d34-daf3-4a57-b327-300576611f81)
+![image](https://github.com/user-attachments/assets/3b1a6513-cd8d-4d05-b092-c5eace180a73)
+![image](https://github.com/user-attachments/assets/7a02f9f3-ec7e-45fb-8958-9585775f2145)
+
+
 
